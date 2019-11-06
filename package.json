@@ -15,7 +15,7 @@
     "express-session": "^1.16.1",
     "express-validator": "^4.3.0",
     "mongodb": "^2.2.10",
-    "mongoose": "^5.5.12"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {},
   "description": ""
